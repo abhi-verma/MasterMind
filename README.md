@@ -17,7 +17,7 @@ Python 2
 
 ### Installation
 
-**Mac OS X**: A version of Python is already installed.
+**Mac OS X**: A version of Python is already installed.<br>
 **Windows**: You will need to install one of the 2.x versions available at [python.org](http://www.python.org/getit/).
 
 
