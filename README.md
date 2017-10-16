@@ -23,10 +23,10 @@ Python 2
 
 ## Running the game
 
-1. Download the file mastermind.py to your computer.
-2. Open Command Prompt in Windows or Terminal in Mac.
-3. Navigate to the directory where the file is located.
-4. Run the file using the command: "python mastermind.py".
+- Download the file mastermind.py to your computer.
+- Open Command Prompt in Windows or Terminal in Mac.
+- Navigate to the directory where the file is located.
+- Run the file using the command: "python mastermind.py".
 
 
 ## Code Breakdown
