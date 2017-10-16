@@ -7,15 +7,15 @@ Mastermind is a classic mind game: a secret code is given, and you must figure i
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine.
 
 
 ### Prerequisites
 
-Python 3
+Python 2
 
 
-### Installing
+### Installation
 
 **Mac OS X**: A version of Python is already installed.
 **Windows**: You will need to install one of the 2.x versions available at [python.org](http://www.python.org/getit/).
@@ -29,7 +29,7 @@ Python 3
 4. Run the file using the command: "python mastermind.py".
 
 
-### Code Breakdown
+## Code Breakdown
 
 - The program imports python CGI (Common Gateway Interface) module to embed python code functionalities in a web page.
 - It chooses a 4 digit number and then the player guesses the number and the program gives feedback on the input number.
